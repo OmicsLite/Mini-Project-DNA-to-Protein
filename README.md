@@ -140,8 +140,3 @@ Setelah menyelesaikan mini project ini, kamu diharapkan mampu:
 - [Biopython Documentation](https://biopython.org/)
 - [NCBI Genetic Codes](https://www.ncbi.nlm.nih.gov/Taxonomy/Utils/wprintgc.cgi)
 
----
-
-**Happy Coding & Exploring Bioinformatics! 🧬**
-
-*OmicsLite — Bioinformatics Research Starter Program*
