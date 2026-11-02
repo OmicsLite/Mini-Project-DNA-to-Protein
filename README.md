@@ -22,7 +22,7 @@ Library utama yang dipakai: **Biopython** dan **Matplotlib**.
 
 Ini cara paling mudah karena kamu tidak perlu install apa pun di komputer.
 
-1. Buka link Colab project ini: 👉 [Buka di Google Colab]((https://colab.research.google.com/drive/10jl2c7FmzQu2R7gPpjU0fAgDeamVGs59?usp=sharing))
+1. Buka link Colab project ini: 👉 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10jl2c7FmzQu2R7gPpjU0fAgDeamVGs59?usp=sharing)
 2. **Login** dulu ke akun Google kamu (kalau belum login).
 3. **PENTING — jangan edit file aslinya langsung.** Simpan salinan ke Drive kamu sendiri dengan cara:
    - Klik menu **File** di pojok kiri atas
